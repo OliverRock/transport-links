@@ -12,6 +12,8 @@ Submission for the connectivity take home.
 
 `/research/` contains some of my notes and research I did while thinking about the problem. Including: a glossary, some notes, screenshots and a lit review written by claude. The lit review is not really relevent to submission but I found it interesting to read to get myself in the right frame of mind to think about the problem.
 
+I used `uv` to manage the environment. The model itself is stdlib only, the only dependency is matplotlib for the Q2/Q3 plots. Run the demos with `uv run run_q1.py` (or `run_q2.py`, `run_q3.py`).
+
 
 ### Contirbutions with AI
 
