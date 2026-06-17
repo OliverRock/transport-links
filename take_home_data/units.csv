@@ -1,0 +1,22 @@
+id,facility_id,name,unit_type,design_capacity_t_per_year,status
+u_001,7ad6df35,Rotterdam Import Terminal,port_import,136102362,Active
+u_002,7ad6df35,Rotterdam Export Terminal,port_export,32182774,Active
+u_003,a138d843,Antwerp Import Terminal,port_import,34903605,Active
+u_004,a138d843,Antwerp Export Terminal,port_export,28260134,Active
+u_005,66e32a72,Ghent Import Terminal,port_import,2040177,Active
+u_006,66e32a72,Ghent Export Terminal,port_export,1554933,Active
+u_007,82cc39d7,Moerdijk Import Terminal,port_import,714647,Active
+u_008,82cc39d7,Moerdijk Export Terminal,port_export,237786,Active
+u_009,38c59ab4,Terneuzen Import Terminal,port_import,4674162,Active
+u_010,38c59ab4,Terneuzen Export Terminal,port_export,998275,Active
+u_011,9f444ed5,CDU,crude_distillation,22259209,Operational
+u_012,14be8e80,CDU,crude_distillation,19918145,Operational
+u_013,bc0d325f,CDU,crude_distillation,9560709,Operational
+u_014,3cc39dad,CDU,crude_distillation,15287858,Operational
+u_015,b9cc8511,CDU,crude_distillation,16830832,Operational
+u_016,4dfcec2b,CDU,crude_distillation,7718963,Operational
+u_017,1c67c9a5,Ethylene,steam_cracker,939843,Operational
+u_018,74b0c40d,Naphtha Cracker 2,steam_cracker,549754,Operational
+u_019,4f2f16b6,Ethylene (G461),steam_cracker,800137,Operational
+u_020,47cf22ae,LHC 2,steam_cracker,594660,Operational
+u_021,6a46fddb,Naphthacracker — NAK 4,steam_cracker,549754,Operational

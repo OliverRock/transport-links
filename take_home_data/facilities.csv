@@ -1,0 +1,17 @@
+id,name,country,lat,lon,status
+7ad6df35,Rotterdam [NL],NLD,51.9092,4.2794,Active
+a138d843,Antwerp [BE],BEL,51.2798,4.3457,Active
+66e32a72,Ghent [BE],BEL,51.1279,3.7638,Active
+82cc39d7,Moerdijk [NL],NLD,51.6920,4.5965,Active
+38c59ab4,Terneuzen [NL],NLD,51.3184,3.8126,Active
+9f444ed5,Shell Pernis Refinery,NLD,51.8836,4.3681,Operational
+14be8e80,BP Rotterdam Refinery,NLD,51.9428,4.1082,Operational
+bc0d325f,ExxonMobil Botlek Rotterdam Refinery,NLD,51.8762,4.2900,Operational
+3cc39dad,ExxonMobil Antwerp Refinery,BEL,51.2548,4.3405,Operational
+b9cc8511,Total Antwerp Refinery,BEL,51.2656,4.3216,Operational
+4dfcec2b,Total Lukoil Zeeland Refinery,NLD,51.4456,3.7291,Operational
+1c67c9a5,Moerdijk Chemicals (Shell),NLD,51.6844,4.5635,Operational
+74b0c40d,Total Olefins Antwerp,BEL,51.2549,4.3299,Operational
+4f2f16b6,Antwerp Petrochemicals (BASF),BEL,51.3577,4.2735,Operational
+47cf22ae,Terneuzen Petrochemical (Dow),NLD,51.3349,3.7964,Operational
+6a46fddb,Chemelot-Geleen Chemical Complex,NLD,50.9599,5.7890,Operational
